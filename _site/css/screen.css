@@ -284,7 +284,7 @@ blockquote:before {
   flex-flow: wrap;
   text-align: center; }
   .staff li {
-    padding: 30px 20px;
+    padding: 20px 20px;
     box-sizing: border-box;
     width: 100%; }
     @media (min-width: 450px) {
@@ -298,11 +298,11 @@ blockquote:before {
     @media (min-width: 768px) {
       .staff li {
         -webkit-box-flex: 1;
-        -webkit-flex: 1 1 33%;
+        -webkit-flex: 1 1 25%;
         -moz-box-flex: 1;
-        -moz-flex: 1 1 33%;
-        -ms-flex: 1 1 33%;
-        flex: 1 1 33%; } }
+        -moz-flex: 1 1 25%;
+        -ms-flex: 1 1 25%;
+        flex: 1 1 25%; } }
   .staff .name {
     margin-top: 20px; }
   .staff .position {

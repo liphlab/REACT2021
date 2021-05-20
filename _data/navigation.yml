@@ -2,7 +2,5 @@
   link: /
 - name: Registration
   link: /registration/
-- name: Speakers
-  link: /speakers/
-- name: Organizers and contacts
-  link: /organizers/
+- name: CCS 2021 Website
+  link: https://ccs2021.univ-lyon1.fr/
