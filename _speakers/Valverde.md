@@ -1,5 +1,5 @@
 ---
 name: Sergi Valverde
-position: CSIC-Universitat Pompeu Fabra (TBC)
+position: CSIC-Universitat Pompeu Fabra
 image_path: /images/CSICLogo.png
 ---
